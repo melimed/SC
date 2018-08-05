@@ -16,5 +16,6 @@
 	<classpathentry kind="lib" path="/Users/Melissa/Documents/selenium-eclipse-files/libs/jna-4.1.0.jar"/>
 	<classpathentry kind="lib" path="/Users/Melissa/Documents/selenium-eclipse-files/libs/jna-platform-4.1.0.jar"/>
 	<classpathentry kind="lib" path="/Users/Melissa/Documents/selenium-eclipse-files/libs/selenium-server-standalone-3.6.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

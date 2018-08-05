@@ -7,7 +7,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebDriverException;
 
 import org.openqa.selenium.WebElement;
-
+import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 import org.openqa.selenium.interactions.Actions;
@@ -22,7 +22,7 @@ public class FindFramePersonalizeMethod extends FindFramePersonilized1{
 	
 	// TODO Auto-generated method stub
 	
-		WebDriver driver=new FirefoxDriver();
+		WebDriver driver=new ChromeDriver();
 		
 		WebDriverWait wd=new WebDriverWait(driver,7);
 		
